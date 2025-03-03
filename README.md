@@ -5,13 +5,13 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-It is all about giving instuctions to the computer,solving real-world problems using technology
-It is important as one can be able to build systems and apps to make life easier for the users
+It is all about giving instuctions to the computer,solving real-world problems using technology.
+It is important as one can be able to build systems and apps to make life easier for the users.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Early foundation which were first built computers in 1940 until 1960 followed by Standardizatio and Modern Software engineering 
 which came in 1970-1990 where the term software engineering was born to improve software development practices,lastly Modern Advancement
-which came in the year 2000 until today which come with dynamic websites,mobile first and many more
+which came in the year 2000 until today which come with dynamic websites,mobile first and many more.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning which involves product developers to do all necessary researches and analysis for best product.
@@ -27,12 +27,12 @@ while the agile method is a collection of best practices for collaboration,makin
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developers design,code,test and maintain applications and systems.
-Quality Assuarance Engineers ensures that the software application meets quality standard by identifying bug,optimization and readability before it's release
-Project managers they make sure that the project is finished on time and on budget
+Quality Assuarance Engineers ensures that the software application meets quality standard by identifying bug,optimization and readability before it's release.
+ Project managers they make sure that the project is finished on time and on budget.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Intedgrated development environment is important for writting code,editing,debug,compiling and testing code examples visual studio code, pycham,idleand sublime text
-version contol system is important for developers as it keeps track of code, also helps deve;opers to collaborate with other teams smoothly example is the Git and Bitbucket
+Intedgrated development environment is important for writting code,editing,debug,compiling and testing code. Examples  are the visual studio code, pycham,idle and sublime text
+version contol system is important for developers as it keeps track of code, also helps deve;opers to collaborate with other teams smoothly. Example is the Git and Bitbucket
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 technology is a revolving field technology or languages that are working today might not be working tomorow or coming years,
