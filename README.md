@@ -31,11 +31,12 @@ Quality Assuarance Engineers ensures that the software application meets quality
 Project managers they make sure that the project is finished on time and on budget
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-version contol system is important for developers as it keeps track of code, also helps deve;opers to collaborate with other teams smoothly
+Intedgrated development environment is important for writting code,editing,debug,compiling and testing code examples visual studio code, pycham,idleand sublime text
+version contol system is important for developers as it keeps track of code, also helps deve;opers to collaborate with other teams smoothly example is the Git and Bitbucket
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 technology is a revolving field technology or languages that are working today might not be working tomorow or coming years,
-I believe the best solution to this is for software to keep upgrading themselves
+I believe the best solution to this is for software engineers to keep upgrading themselves by constanly learning new technologies
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
